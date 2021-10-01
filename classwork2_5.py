@@ -38,3 +38,4 @@ my_list = [1, 2, 3, 4, 5, 6, 834, 123, 99, 32, 644 ]
 list_2 = list(filter(lambda my_list: my_list % 2 == 0, my_list))
 print(list_2)
 
+# smth
